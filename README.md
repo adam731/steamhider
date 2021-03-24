@@ -1,5 +1,5 @@
 # steamhider
-steam changer
+steam name changer
 pip install selenium
 check your driver and which verison your on https://chromedriver.chromium.org/
 
