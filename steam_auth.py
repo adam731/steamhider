@@ -22,6 +22,7 @@ def steam():
     driver.find_element_by_id("input_username").send_keys(username)
     driver.find_element_by_id("input_password").send_keys(password)
     driver.find_element_by_class_name('login_btn').click()
+    print('30 seconds to enter your AUTH code')
     time.sleep(30)
     driver.find_element_by_class_name('btn_medium').click()
     driver.find_element_by_class_name('DialogTextInputBase').clear()
