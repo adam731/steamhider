@@ -1,6 +1,6 @@
 # steamhider
 steam name changer
-pip install selenium
+run this command in your cmd 'pip install selenium'
 check your driver and which verison your on https://chromedriver.chromium.org/
 
 PATH = "C:\Program Files (x86)\chromedriver.exe"
